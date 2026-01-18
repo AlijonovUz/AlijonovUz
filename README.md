@@ -6,7 +6,7 @@
 ![Skills](https://skillicons.dev/icons?i=docker,linux,aws,redis,git,github,gitlab,mysql,postgresql,sqlite)
 
 ### Connect with me:
-[![Telegram](https://img.shields.io/badge/Telegram-%231877F2.svg?style=flat&logo=Facebook&logoColor=white)](https://t.me/alijonovuz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/alijonov.uz_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/alijonovuz)
+[![Telegram](https://img.shields.io/badge/Telegram-%231877F2.svg?style=flat&logo=Telegram&logoColor=white)](https://t.me/alijonovuz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/alijonov.uz_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/alijonovuz)
 
 
 ### My activity:
