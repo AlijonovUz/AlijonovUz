@@ -3,9 +3,10 @@
 ### Tools and Technologies:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,laravel,python,django,fastapi)](https://github.com/AlijonovUz)
-![DevOps](https://skillicons.dev/icons?i=linux,bash,docker,nginx,aws,redis)
-![VersionControl](https://skillicons.dev/icons?i=git,github,gitlab)
-![Databases](https://skillicons.dev/icons?i=mysql,postgresql,sqlite)
+
+![DevOps](https://skillicons.dev/icons?i=linux,bash,docker,nginx,aws,redis) <br>
+![VersionControl](https://skillicons.dev/icons?i=git,github,gitlab) <br>
+![Databases](https://skillicons.dev/icons?i=mysql,postgresql,sqlite) <br>
 ![IDE](https://skillicons.dev/icons?i=phpstorm,pycharm)
 
 
