@@ -2,8 +2,8 @@
 
 ### Tools and Technologies:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,python,django,fastapi,php,laravel,composer)](https://github.com/AlijonovUz)
-![Skills](https://skillicons.dev/icons?i=docker,nginx,bash,linux,aws,redis,git,github,gitlab,mysql,postgresql,sqlite,phpstorm,pycharm)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,laravel,python,django,fastapi)](https://github.com/AlijonovUz)
+![Skills](https://skillicons.dev/icons?i=linux,bash,docker,nginx,aws,redis,git,github,gitlab,mysql,postgresql,sqlite,phpstorm,pycharm)
 
 ### Connect with me:
 [![Telegram](https://img.shields.io/badge/Telegram-%231877F2.svg?style=flat&logo=Telegram&logoColor=white)](https://t.me/alijonovuz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/alijonov.uz_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/alijonovuz)
