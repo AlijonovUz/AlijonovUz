@@ -2,7 +2,7 @@
 
 ### Tools and Technologies:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,go,php,laravel,python,django,fastapi)](https://github.com/AlijonovUz)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,laravel,python,django,fastapi)](https://github.com/AlijonovUz)
 
 ![DevOps](https://skillicons.dev/icons?i=linux,bash,docker,nginx,aws,redis) <br>
 ![VersionControl](https://skillicons.dev/icons?i=git,github,gitlab) <br>
